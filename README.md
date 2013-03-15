@@ -5,6 +5,8 @@ And also Markdown, it seems.
 
 ## Trying out some code snippets
 
+### JavaScript
+
 ```javascript
 var helloGitHub = function (l) {
     var msg = 'There will be quite a lot of ' + l + ' here, oh yes.';
@@ -13,6 +15,8 @@ var helloGitHub = function (l) {
 
 helloGitHub('JavaScript');
 ```
+
+### PHP
 
 ```php
 function helloGitHub($l) {
@@ -23,11 +27,15 @@ function helloGitHub($l) {
 helloGitHub('PHP');
 ```
 
+### HTML
+
 ```html
 <section>
     <p class="msg">And of course the ol' HTML markup.</p>
 </section>
 ```
+
+### CSS
 
 ```css
 .msg {
