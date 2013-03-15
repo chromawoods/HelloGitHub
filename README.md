@@ -2,9 +2,13 @@
 
 This is just a useless HelloWorld project intended for me to get familiar with git and GitHub. And also Markdown, it seems.
 
-I might as well use this repo as a presentation of me and what I will be doing here. So, up til now I have been versioning all my projects on a Debian NAS server at home, using SVN. This is fine, however I feel the amount of "small" experimental projects is growing and so I thought i'd be a good idea to explore git and GitHub for those types of projects and keep the "bigger" projects to myself on my SVN server.
+I might as well use this repo as a presentation of me and what I will be doing here. So, up till now I have been versioning all my projects on a Debian NAS server at home, using SVN. This is fine, however I feel the amount of "small" experimental projects is growing and so I thought i'd be a good idea to explore git and GitHub for those types of projects and keep the "bigger" projects to myself on my SVN server.
 
 [CodePen](http://codepen.io/ "CodePen") is also one of those things that I would like to explore, but I just don't have the energy to be at all places at once. [My CodePen profile](http://codepen.io/chromawoods/ "My CodePen profile") is rather thin ATM. :) Perhaps I'll publish my stuff here on GH and then use them to demo stuff on CodePen. We'll see.
+
+I live in Stockholm, Sweden. We do not have polar bears here. We do have brown bears. They are scary but they won't usually venture down to Stockholm.
+
+For more useless info, [visit my homepage](http://chromawoods.com/ "chromawoods.com"). It's full of Swedish and stuff, but I'll do my best to make it more international in the future.
 
 ## Trying out some code snippets
 
