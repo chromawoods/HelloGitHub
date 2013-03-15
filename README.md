@@ -1,4 +1,5 @@
-# Hello GitHub
+Hello GitHub
+============
 
 This is just a useless HelloWorld project intended for me to get familiar with git and GitHub. And also Markdown, it seems.
 
@@ -10,7 +11,8 @@ I live in Stockholm, Sweden. We do not have polar bears here. We do have brown b
 
 For more useless info, [visit my homepage](http://chromawoods.com/ "chromawoods.com"). It's full of Swedish and stuff, but I'll do my best to make it more international in the future.
 
-## Trying out some code snippets
+Trying out some code snippets
+-----------------------------
 
 ### JavaScript
 
