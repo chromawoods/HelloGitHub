@@ -18,7 +18,7 @@ var helloGitHub = function (l) {
     return msg;
 };
 
-helloGitHub('JavaScript');
+console.log(helloGitHub('JavaScript'));
 ```
 
 ### PHP
@@ -31,7 +31,7 @@ function helloGitHub($l) {
     return $msg;
 }
 
-helloGitHub('PHP');
+echo helloGitHub('PHP');
 ```
 
 ### HTML
